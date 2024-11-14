@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Changa:wght@200..800&family=Geist:wght@100..900&family=Rubik+Gemstones&family=Silkscreen:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Changa:wght@200..800&family=Geist:wght@100..900&family=Rubik+Burned&family=Rubik+Gemstones&family=Silkscreen:wght@400;700&display=swap');
+
+.navbar {
+    background-color: #333333 !important;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.navbar .navbar-brand {
+    font-family: "Rubik Burned", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #CCFF00;
+    font-size: 2em;
+}
+
+.navbar .nav-link {
+    color: #F2F2F2 !important;
+    text-transform: uppercase;
+    padding-left: 35px !important;
+    /* font */
+    font-family: "Rubik Gemstones", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5em;
+}
+
+.navbar .nav-link:hover,
+.nav-link:focus {
+    color: #CCFF00 !important;
+    transform: scale(1.2)
+}
