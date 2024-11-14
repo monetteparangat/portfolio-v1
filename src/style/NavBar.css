@@ -27,7 +27,7 @@
 }
 
 .navbar .nav-link:hover,
-.nav-link:focus {
+.nav-link.active {
     color: #CCFF00 !important;
     transform: scale(1.2)
 }
