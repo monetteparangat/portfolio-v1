@@ -1,6 +1,4 @@
 import '../style/Banner.css'
-import walkImg from '../assets/img/walk.svg'
-import flower from '../assets/img/flower.jpg'
 import welcome from '../assets/img/welcome.svg'
 
 function Banner() {
